@@ -28,4 +28,4 @@ Hanane El aasraoui
 
 Vous pouvez consulter et télécharger le compte rendu du TP en cliquant sur le lien ci-dessous :
 
-👉 [Télécharger le compte rendu](./TP_SMS.pdf)
+👉 [Télécharger le compte rendu](./compte_rendusms.pdf)
